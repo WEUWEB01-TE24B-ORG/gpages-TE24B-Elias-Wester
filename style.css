@@ -1,0 +1,67 @@
+body {
+    background-image: url(./bilder/747.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img {
+    width: 250px;
+}
+.kent {
+    width: 500px;
+    margin-top: -20%;
+    margin-left: 10%;
+    border: 10px solid rgb(255, 238, 230);
+}
+h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: white;
+    text-shadow: 0px 0px 20px black, 0px 0px 10px black;
+    margin-top: 20%;
+    margin-left: 56%;
+}
+h2 {
+    font-size: 30px;
+    font-family: sans-serif;
+    text-shadow: 0px 0px 20px black, 0px 0px 10px black;
+    color: lightgray;
+    margin-left: 52%;
+}
+p {
+    width: 1000px;
+    background-color: #282828c7;
+    padding: 10px;
+    color: white;
+    border-radius: 6px;
+    margin-top: 40px;
+    margin-left: 15%;
+}
+table {
+    width: fit-content;
+    background-color: #282828c7;
+    border-radius: 6px;
+    margin: -50px auto;
+}
+tr {
+    color: white;
+}
+th {
+    padding: 5px;
+    border: 1px solid black;
+    color: rgb(255, 224, 110);
+}
+td {
+    text-align: center;
+    padding: 0px 40px;
+    border: 1px solid black;
+}
+.link {
+    width: fit-content;
+    margin-left: 4%;
+}
+a {
+    color: white;
+}
